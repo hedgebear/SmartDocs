@@ -1,0 +1,3 @@
+Usuário -> FastAPI -> Upload de documento -> Processa -> 
+Extrai texto -> Cria embeddings -> Armazena vetorialmente -> 
+Consulta -> Busca vetorial -> Gera resposta com IA -> Retorna
