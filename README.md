@@ -56,8 +56,8 @@ README.md
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seuusuario/smartdocs-api.git
-cd smartdocs-api
+git clone https://github.com/hedgebear/SmartDocs.git
+cd smartdocs
 ```
 
 ### 2. Defina sua chave da OpenAI
