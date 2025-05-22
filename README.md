@@ -139,7 +139,7 @@ Body:
 
 ## 🧑‍💻 Autor
 
-Projeto pessoal mantido por [Seu Nome].
+Projeto pessoal mantido por Lucas Fernandes Mosqueira.
 
 Sinta-se à vontade para contribuir ou sugerir melhorias!
 
